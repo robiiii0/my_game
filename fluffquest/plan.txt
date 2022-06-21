@@ -1,0 +1,7 @@
+histoire:
+but du jeu:
+    
+monde:
+    ocean
+    terre
+    village

@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/roro/fluffquest'
+g++ main.cpp -lsfml-graphics -lsfml-audio -lsfml-window -lsfml-system -lglut -lGLU -lGL -g3 -o FluffQuest
+make: Leaving directory '/home/roro/fluffquest'
+ 
